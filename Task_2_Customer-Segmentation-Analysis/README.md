@@ -18,6 +18,17 @@ This project performs Customer Segmentation on an e-commerce dataset using RFM (
 
 ---
 
+## Dataset
+
+This project uses the **Online Retail II** dataset.
+The dataset is not included in this repository because of its large size.
+
+You can download it from:
+- Kaggle:
+  www.kaggle.com/code/ekrembayar/rfm-analysis-online-retail-ii
+
+---
+
 ## Technologies Used
 
 - Python
@@ -186,9 +197,6 @@ Customer segmentation helps businesses:
 
 ```
 Customer-Segmentation-Analysis
-│
-├── data
-│   └── online_retail_II.csv
 │
 ├── notebook
 │   └── Customer_Segmentation.ipynb
