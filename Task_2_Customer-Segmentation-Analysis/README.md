@@ -195,7 +195,7 @@ Customer segmentation helps businesses:
 
 ## Project Structure
 
-'''text
+```text
 
 Customer-Segmentation-Analysis
 │
@@ -216,6 +216,7 @@ Customer-Segmentation-Analysis
 ├── requirements.txt
 └── .gitignore
 
+```
 ---
 
 ## Author
