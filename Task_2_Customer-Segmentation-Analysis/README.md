@@ -195,6 +195,8 @@ Customer segmentation helps businesses:
 
 ## Project Structure
 
+'''text
+
 Customer-Segmentation-Analysis
 │
 ├── notebook
