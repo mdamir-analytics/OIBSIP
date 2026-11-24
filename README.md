@@ -46,14 +46,11 @@ Skills Demonstrated
 
 Repository Structure
 
-OIBSIP/
-│
-├── Task_1_Retail-Sales-EDA/
-├── Task_2_Customer-Segmentation/
-├── Task_3_House-Price-Prediction/
-├── Task_4_Cafe-Sales-Data-Cleaning/
-│
-└── README.md
+OIBSIP
+ Task_1_Retail-Sales-EDA.       
+ Task_2_Customer-Segmentation.   
+ Task_3_House-Price-Prediction.    
+ Task_4_Cafe-Sales-Data-Cleaning.  
 
 About Me
 
